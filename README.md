@@ -17,6 +17,6 @@
 ![](https://github.com/luomei1547/RayTracing/blob/master/Image/16.jpeg?raw=true)
 ![](https://github.com/luomei1547/RayTracing/blob/master/Image/17.jpeg?raw=true)
 ![](https://github.com/luomei1547/RayTracing/blob/master/Image/24.jpeg?raw=true)
-![](https://github.com/luomei1547/RayTracing/blob/master/Image/22.jpeg?raw=true)
 ![](https://github.com/luomei1547/RayTracing/blob/master/Image/23.jpeg?raw=true)
+![](https://github.com/luomei1547/RayTracing/blob/master/Image/22.jpeg?raw=true)
 ![](https://github.com/luomei1547/RayTracing/blob/master/Image/27.jpeg?raw=true)

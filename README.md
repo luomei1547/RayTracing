@@ -1,7 +1,7 @@
 # RayTracing
 光线追踪C#及渲染结果
 ## 参考Ray Tracing in One Weekend & Ray Tracing The Next Week 两本书完成了C#版本的渲染
-!(https://github.com/luomei1547/RayTracing/blob/master/Image/01.png?raw=true)
+![](https://github.com/luomei1547/RayTracing/blob/master/Image/01.png?raw=true)
 !(https://github.com/luomei1547/RayTracing/blob/master/Image/02.png?raw=true)
 !(https://github.com/luomei1547/RayTracing/blob/master/Image/03.png?raw=true)
 !(https://github.com/luomei1547/RayTracing/blob/master/Image/04.png?raw=true)

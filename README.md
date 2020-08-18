@@ -8,7 +8,6 @@
 ![](https://github.com/luomei1547/RayTracing/blob/master/Image/07.jpeg?raw=true)
 ![](https://github.com/luomei1547/RayTracing/blob/master/Image/08.jpeg?raw=true)
 ![](https://github.com/luomei1547/RayTracing/blob/master/Image/09.jpeg?raw=true)
-![](https://github.com/luomei1547/RayTracing/blob/master/Image/10.jpeg?raw=true)
 ![](https://github.com/luomei1547/RayTracing/blob/master/Image/11.jpeg?raw=true)
 ![](https://github.com/luomei1547/RayTracing/blob/master/Image/12.jpeg?raw=true)
 ![](https://github.com/luomei1547/RayTracing/blob/master/Image/13.jpeg?raw=true)
